@@ -1,0 +1,7 @@
+1. How will your organize your code?
+2. How structure your application flow?
+3. How will you sort data? At what stage?
+I will sort the task data by its due date and its priority everytime a new task is added.
+
+4. What search approach will you use?
+5. How will you represent date stamps?
